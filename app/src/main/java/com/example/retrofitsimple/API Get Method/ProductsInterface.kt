@@ -1,4 +1,4 @@
-package com.example.retrofitsimple.API
+package com.example.retrofitsimple.`API Get Method`
 
 import com.example.retrofitsimple.Model.Products
 import retrofit2.Response

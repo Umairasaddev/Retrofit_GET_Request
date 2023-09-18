@@ -3,11 +3,10 @@ package com.example.retrofitsimple
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.example.retrofitsimple.API.ProductsInterface
-import com.example.retrofitsimple.API.ProductsObject
+import com.example.retrofitsimple.`API Get Method`.ProductsInterface
+import com.example.retrofitsimple.`API Get Method`.ProductsObject
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
-import retrofit2.create
 
 class ProductsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

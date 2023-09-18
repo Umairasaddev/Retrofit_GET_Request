@@ -3,8 +3,8 @@ package com.example.retrofitsimple
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.example.retrofitsimple.API.ApiInterface
-import com.example.retrofitsimple.API.ApiUtilities
+import com.example.retrofitsimple.`API Get Method`.ApiInterface
+import com.example.retrofitsimple.`API Get Method`.ApiUtilities
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 

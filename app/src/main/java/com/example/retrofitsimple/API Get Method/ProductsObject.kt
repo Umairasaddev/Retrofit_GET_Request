@@ -1,4 +1,4 @@
-package com.example.retrofitsimple.API
+package com.example.retrofitsimple.`API Get Method`
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
